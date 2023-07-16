@@ -1,2 +1,5 @@
-# eda_and_dev_tools
-Итоговый проект по разведочному анализу данных и основам разработки
+# Age of abalones
+The project was made while studying the basics of EDA and development tools.
+
+# License
+This project falls under the MIT license.
